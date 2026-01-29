@@ -1,6 +1,6 @@
 # Introduction
 
-!!! abstract "Academic Documentation and Writing"
+!!! abstract "Academic Reports"
 
 You will always face an issue of divergence between academics. I can submit a paper to one conference and be refused, and win a best paper award, with the same unedited content, at a different conference. The key starting point is to identify the requirements of the referees or you supervisor/grader.
 
