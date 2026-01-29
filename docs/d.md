@@ -5,7 +5,7 @@ At undergraduate level, we are concerned with technical understanding and a rigo
 
 At post graduate levels there will be more emphasis placed on synthesis and analysis which should be obvious from the conclusions. The conclusions will be heavily weighted, and the lecturer will be looking for signs that the student can analyze and evaluate the results of the laboratory work and can combine the knowledge gained from lectures and independent learning. The conclusions should reference credible material from independent study.
 
-Check in each case before you commence work, the marking rubric, as there may be some variation. Marking is typically:
+Check the marking rubric in each case before you commence work, as there may be some variation in the weighting. Marking is typically:
 
 Description (5%)
 
