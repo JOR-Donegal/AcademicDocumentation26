@@ -2,7 +2,7 @@
 
 !!! abstract "Academic Reports"
 
-You will always face an issue of divergence between academics. I can submit a paper to one conference and be refused, and win a best paper award, with the same unedited content, at a different conference. The key starting point is to identify the requirements of the referees or you supervisor/grader.
+You will always face an issue of divergence between academics. I can submit a paper to one conference and be refused, and win a best paper award, with the same unedited content, at a different conference. The key starting point is to identify the requirements of the referees or you supervisor/grader. These notes identify my requirements only, check with individual lecturers for their requirements, as they may differ.
 
 In designing the assessment strategy for some modules, I use practical exercises and reports to introduce academic writing.
 
